@@ -1,2 +1,2 @@
-# Meu portifólio _(underconstruction)_
+# Meu portifólio _(under construction)_
 Código fonte do meu portifólio
